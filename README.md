@@ -19,3 +19,4 @@ The first exercise, `helloWorld` will walk you through the process in more depth
 ## Solutions
 
 Solutions for these exercises can be found in this repo on the 'solutions' branch.
+# javascript-exercises
